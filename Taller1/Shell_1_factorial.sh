@@ -1,3 +1,4 @@
+#!/bin/bash
 n=$1
 cont=1
 factorial=1
